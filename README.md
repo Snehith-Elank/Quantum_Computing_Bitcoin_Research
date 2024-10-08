@@ -7,9 +7,7 @@ This repository contains my research project on the effects of quantum computing
 1. [Colab Notebooks](#colab-notebooks)
 2. [Data](#data)
 3. [Documents](#documents)
-4. [Presentation](#presentation)
-5. [How to Run the Notebooks](#how-to-run-the-notebooks)
-6. [Findings Summary](#findings-summary)
+4. [Findings Summary](#findings-summary)
 
 ---
 
