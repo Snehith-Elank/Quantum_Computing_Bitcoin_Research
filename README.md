@@ -28,7 +28,7 @@ You can open these notebooks in Google Colab using the following links:
 The data used for analysis can be found in the `Data` folder. This includes:
 
 - **mining_data.pdf**: Data related to Bitcoin mining performance, profitability, and hardware efficiency.
-- - **expermintal_data.xlsx**: Data collected for the experimant 
+- **expermintal_data.xlsx**: Data collected for the experimant 
 
 ---
 
