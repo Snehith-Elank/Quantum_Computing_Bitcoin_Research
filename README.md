@@ -14,7 +14,7 @@ This repository contains my research project on the effects of quantum computing
 ---
 
 ## Colab Notebooks
-The core analysis of this research is carried out in two Jupyter Notebooks, which are available in the `Colab_Notebooks` directory.
+The core analysis of this research is carried out in two Colab Notebooks, which are available in the `Colab_Notebooks` directory.
 
 - Bitcoin_Mining_Analysis.ipynb: This notebook analyzes Bitcoin mining operations.
 - Quantum_Computing_Bitcoin_Effect.ipynb: This notebook explores the impact of quantum computing on Bitcoin mining.
@@ -48,11 +48,6 @@ A presentation summarizing the research and results can be found in the `Docs` f
 
 ---
 
-## How to Run the Notebooks
-To run the notebooks locally or on Google Colab:
-1. Download the notebook and data files.
-2. Upload the notebook to Google Colab or run them in a local Jupyter environment.
-3. Ensure that the **Data** folder is available in the same directory as the notebooks to avoid file path issues.
 
 ---
 
