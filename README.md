@@ -16,7 +16,7 @@ This repository contains my research project on the effects of quantum computing
 ## Colab Notebooks
 The core analysis of this research is carried out in two Jupyter Notebooks, which are available in the `Colab_Notebooks` directory.
 
-- **[Bitcoin_Mining_Analysis.ipynb](./Colab_Notebooks/Bitcoin_Mining_Analysis.ipynb)**: This notebook analyzes Bitcoin mining operations.
+- **[Bitcoin_Mining_Analysis.ipynb](./Colab_Notebooks/Bitcoin_Mining_Anaylsis.ipynb)**: This notebook analyzes Bitcoin mining operations.
 - **[Quantum_Computing_Bitcoin_Effect.ipynb](./Colab_Notebooks/Quantum_Computing_Bitcoin_Effect.ipynb)**: This notebook explores the impact of quantum computing on Bitcoin mining.
 
 You can open these notebooks in Google Colab using the following links:
