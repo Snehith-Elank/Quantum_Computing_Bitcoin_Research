@@ -20,7 +20,7 @@ The core analysis of this research is carried out in two Colab Notebooks, which 
 You can open these notebooks in Google Colab using the following links:
 
 - [Open Bitcoin Mining Analysis in Colab](https://colab.research.google.com/github/Snehith-Elank/Quantum_Computing_Bitcoin_Research/blob/Colab_Notebooks/Bitcoin_Mining_Anaylsis.ipynb)
-- [Open Quantum Computing and Bitcoin in Colab](https://colab.research.google.com/github/Snehith-Elank/Quantum_Computing_Bitcoin_Research/tree/Colab_Notebooks)
+- [Open Quantum Computing and Bitcoin in Colab](https://colab.research.google.com/github//Snehith-Elank/Quantum_Computing_Bitcoin_Research/blob/Colab_Notebooks/Quantum_Computing_Bitcoin_Effect.ipynb)
 
 ---
 
